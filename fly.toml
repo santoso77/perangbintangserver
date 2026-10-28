@@ -1,5 +1,5 @@
 # Ganti GANTI-NAMA-APP dengan nama unik, misalnya perang-bintang-budi
-app = 'perangbintang
+app = 'perangbintang'
 primary_region = 'sin'
 
 [build]
